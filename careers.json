@@ -27,7 +27,7 @@
         "location":"Pune",
         "skills_required":["React","Express","Node","MongoDB"],
         "experience":"Fresher",
-        "description":"",
+        "description":"Work on both front-end and back-end development, helping build and enhance full-stack web applications.",
         "apply_link":"https://codeops.com/careers/backend"
     },
     {
@@ -37,7 +37,7 @@
         "location":"Hyderabad",
         "skills_required":["JavaScript","Express"],
         "experience":"Fresher",
-        "description":"",
+        "description":"Develop and maintain backend features using Node.js while assisting in API integration.",
         "apply_link":"https://codeops.com/careers/backend"
     },
     {
@@ -47,17 +47,17 @@
         "location":"Kolkata",
         "skills_required":["Scripting","OSINT","Linux","Cryptography"],
         "experience":"5-6 years",
-        "description":"",
+        "description":"Monitor security alerts, identify vulnerabilities, and support in strengthening system defenses.",
         "apply_link":"https://codeops.com/careers/cybersecurity"
     },
     {
         "id":6,
-        "title":"Network Administration",
+        "title":"Network Administrator",
         "type":"Job",
         "location":"Delhi",
         "skills_required":["Analytical Thinking","OSI","DNS Management"],
         "experience":"3-4 years",
-        "description":"",
+        "description":"Assist in managing network devices, troubleshooting connectivity issues, and ensuring smooth network operations",
         "apply_link":"https://codeops.com/careers/cybersecurity"
     }
   ]
