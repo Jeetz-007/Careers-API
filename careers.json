@@ -3,12 +3,11 @@
     {
       "id": 1,
       "title": "Frontend Developer",
-      "type": "Full-time",
+      "type": "Job",
       "location": "Remote",
       "skills_required": ["HTML", "CSS", "JavaScript", "React"],
       "experience": "1-2 years",
-      "mini_description": "Build modern UI components and collaborate with designers.",
-      "max_description":"",
+      "description": "Build modern UI components and collaborate with designers.",
       "apply_link": "https://codeops.com/careers/frontend"
     },
     {
@@ -18,19 +17,48 @@
       "location": "Hybrid - Bangalore",
       "skills_required": ["Python", "Django", "SQL", "APIs"],
       "experience": "Fresher",
-      "mini_description": "Assist in building APIs and handling server logic.",
+      "description": "Assist in building APIs and handling server logic.",
       "apply_link": "https://codeops.com/careers/backend"
     },
     {
         "id":3,
-        "title":"Backend Developer",
+        "title":"Full stack Developer",
         "type":"Internship",
         "location":"Pune",
         "skills_required":["React","Express","Node","MongoDB"],
         "experience":"Fresher",
-        "mini_description":"",
-        "max_description":"",
+        "description":"",
         "apply_link":"https://codeops.com/careers/backend"
+    },
+    {
+        "id":4,
+        "title":"Node JS Developer",
+        "type":"Internship",
+        "location":"Hyderabad",
+        "skills_required":["JavaScript","Express"],
+        "experience":"Fresher",
+        "description":"",
+        "apply_link":"https://codeops.com/careers/backend"
+    },
+    {
+        "id":5,
+        "title":"Information Security Analyst",
+        "type":"Job",
+        "location":"Kolkata",
+        "skills_required":["Scripting","OSINT","Linux","Cryptography"],
+        "experience":"5-6 years",
+        "description":"",
+        "apply_link":"https://codeops.com/careers/cybersecurity"
+    },
+    {
+        "id":6,
+        "title":"Network Administration",
+        "type":"Job",
+        "location":"Delhi",
+        "skills_required":["Analytical Thinking","OSI","DNS Management"],
+        "experience":"3-4 years",
+        "description":"",
+        "apply_link":"https://codeops.com/careers/cybersecurity"
     }
   ]
 }
