@@ -21,44 +21,184 @@
       "apply_link": "https://codeops.com/careers/backend"
     },
     {
-        "id":3,
-        "title":"Full stack Developer",
-        "type":"Internship",
-        "location":"Pune",
-        "skills_required":["React","Express","Node","MongoDB"],
-        "experience":"Fresher",
-        "description":"Work on both front-end and back-end development, helping build and enhance full-stack web applications.",
-        "apply_link":"https://codeops.com/careers/backend"
+      "id": 3,
+      "title": "Full Stack Developer",
+      "type": "Internship",
+      "location": "Pune",
+      "skills_required": ["React", "Express", "Node", "MongoDB"],
+      "experience": "Fresher",
+      "description": "Work on both front-end and back-end development, helping build full-stack web applications.",
+      "apply_link": "https://codeops.com/careers/fullstack"
     },
     {
-        "id":4,
-        "title":"Node JS Developer",
-        "type":"Internship",
-        "location":"Hyderabad",
-        "skills_required":["JavaScript","Express"],
-        "experience":"Fresher",
-        "description":"Develop and maintain backend features using Node.js while assisting in API integration.",
-        "apply_link":"https://codeops.com/careers/backend"
+      "id": 4,
+      "title": "Node.js Developer",
+      "type": "Internship",
+      "location": "Hyderabad",
+      "skills_required": ["JavaScript", "Express"],
+      "experience": "Fresher",
+      "description": "Develop backend features using Node.js while assisting in API integration.",
+      "apply_link": "https://codeops.com/careers/nodejs"
     },
     {
-        "id":5,
-        "title":"Information Security Analyst",
-        "type":"Job",
-        "location":"Kolkata",
-        "skills_required":["Scripting","OSINT","Linux","Cryptography"],
-        "experience":"5-6 years",
-        "description":"Monitor security alerts, identify vulnerabilities, and support in strengthening system defenses.",
-        "apply_link":"https://codeops.com/careers/cybersecurity"
+      "id": 5,
+      "title": "Information Security Analyst",
+      "type": "Job",
+      "location": "Kolkata",
+      "skills_required": ["Scripting", "OSINT", "Linux", "Cryptography"],
+      "experience": "5-6 years",
+      "description": "Monitor security alerts, identify vulnerabilities, and strengthen system defenses.",
+      "apply_link": "https://codeops.com/careers/cybersecurity"
     },
     {
-        "id":6,
-        "title":"Network Administrator",
-        "type":"Job",
-        "location":"Delhi",
-        "skills_required":["Analytical Thinking","OSI","DNS Management"],
-        "experience":"3-4 years",
-        "description":"Assist in managing network devices, troubleshooting connectivity issues, and ensuring smooth network operations",
-        "apply_link":"https://codeops.com/careers/cybersecurity"
+      "id": 6,
+      "title": "Network Administrator",
+      "type": "Job",
+      "location": "Delhi",
+      "skills_required": ["Analytical Thinking", "OSI", "DNS Management"],
+      "experience": "3-4 years",
+      "description": "Manage network devices, troubleshoot issues, and ensure smooth network operations.",
+      "apply_link": "https://codeops.com/careers/networkadmin"
+    },
+    {
+      "id": 7,
+      "title": "React Native Developer",
+      "type": "Job",
+      "location": "Remote",
+      "skills_required": ["React Native", "JavaScript", "REST APIs", "Redux"],
+      "experience": "1-3 years",
+      "description": "Develop mobile apps for Android and iOS using React Native.",
+      "apply_link": "https://codeops.com/careers/reactnative"
+    },
+    {
+      "id": 8,
+      "title": "DevOps Engineer",
+      "type": "Job",
+      "location": "Bangalore",
+      "skills_required": ["AWS", "Docker", "Kubernetes", "CI/CD", "Linux"],
+      "experience": "2-4 years",
+      "description": "Implement CI/CD pipelines, manage cloud infrastructure, and optimize deployment workflows.",
+      "apply_link": "https://codeops.com/careers/devops"
+    },
+    {
+      "id": 9,
+      "title": "UI/UX Designer",
+      "type": "Internship",
+      "location": "Remote",
+      "skills_required": ["Figma", "Wireframing", "Prototyping", "User Research"],
+      "experience": "Fresher",
+      "description": "Assist in designing user-friendly interfaces and collaborating with the development team.",
+      "apply_link": "https://codeops.com/careers/uiux"
+    },
+    {
+      "id": 10,
+      "title": "Cloud Engineer",
+      "type": "Job",
+      "location": "Hyderabad",
+      "skills_required": ["AWS", "Terraform", "Monitoring Tools", "Linux"],
+      "experience": "2-3 years",
+      "description": "Manage scalable cloud architectures and automate infrastructure provisioning.",
+      "apply_link": "https://codeops.com/careers/cloud"
+    },
+    {
+      "id": 11,
+      "title": "Cybersecurity Intern",
+      "type": "Internship",
+      "location": "Remote",
+      "skills_required": ["Linux Basics", "Networking", "Scripting"],
+      "experience": "Fresher",
+      "description": "Assist the security team in analyzing logs and understanding common attack patterns.",
+      "apply_link": "https://codeops.com/careers/cyberintern"
+    },
+    {
+      "id": 12,
+      "title": "AI/ML Engineer",
+      "type": "Job",
+      "location": "Chennai",
+      "skills_required": ["Python", "TensorFlow", "Pandas", "Machine Learning Algorithms"],
+      "experience": "1-3 years",
+      "description": "Build machine learning models and optimize AI pipelines for production.",
+      "apply_link": "https://codeops.com/careers/aiml"
+    },
+    {
+      "id": 13,
+      "title": "QA Automation Engineer",
+      "type": "Job",
+      "location": "Hybrid - Pune",
+      "skills_required": ["Selenium", "JavaScript", "Testing Frameworks", "CI/CD"],
+      "experience": "1-2 years",
+      "description": "Write test automation scripts and ensure product quality through continuous testing.",
+      "apply_link": "https://codeops.com/careers/qa"
+    },
+    {
+      "id": 14,
+      "title": "MERN Stack Developer",
+      "type": "Job",
+      "location": "Remote",
+      "skills_required": ["MongoDB", "Express", "React", "Node.js"],
+      "experience": "1-2 years",
+      "description": "Develop and maintain full-stack applications using the MERN stack.",
+      "apply_link": "https://codeops.com/careers/mern"
+    },
+    {
+      "id": 15,
+      "title": "Data Analyst",
+      "type": "Job",
+      "location": "Mumbai",
+      "skills_required": ["SQL", "Excel", "Power BI", "Python"],
+      "experience": "1-3 years",
+      "description": "Analyze datasets, build dashboards, and support data-driven decision making.",
+      "apply_link": "https://codeops.com/careers/dataanalyst"
+    },
+    {
+      "id": 16,
+      "title": "Android Developer",
+      "type": "Internship",
+      "location": "Delhi",
+      "skills_required": ["Java", "Kotlin", "Android Studio"],
+      "experience": "Fresher",
+      "description": "Assist in building Android apps and implementing new features.",
+      "apply_link": "https://codeops.com/careers/android"
+    },
+    {
+      "id": 17,
+      "title": "Systems Engineer",
+      "type": "Job",
+      "location": "Chandigarh",
+      "skills_required": ["Linux Admin", "Shell Scripting", "Networking Basics"],
+      "experience": "2-3 years",
+      "description": "Manage system configurations and optimize server performance.",
+      "apply_link": "https://codeops.com/careers/systemengineer"
+    },
+    {
+      "id": 18,
+      "title": "PHP Backend Developer",
+      "type": "Job",
+      "location": "Jaipur",
+      "skills_required": ["PHP", "Laravel", "MySQL"],
+      "experience": "1-2 years",
+      "description": "Build and maintain backend services using PHP and Laravel.",
+      "apply_link": "https://codeops.com/careers/phpdev"
+    },
+    {
+      "id": 19,
+      "title": "Tech Support Engineer",
+      "type": "Internship",
+      "location": "Remote",
+      "skills_required": ["Troubleshooting", "Linux", "Communication Skills"],
+      "experience": "Fresher",
+      "description": "Assist clients by diagnosing technical issues and documenting solutions.",
+      "apply_link": "https://codeops.com/careers/support"
+    },
+    {
+      "id": 20,
+      "title": "Product Manager",
+      "type": "Job",
+      "location": "Hybrid - Bangalore",
+      "skills_required": ["Roadmapping", "Research", "Team Coordination"],
+      "experience": "3-5 years",
+      "description": "Work with designers and developers to plan features and manage product lifecycle.",
+      "apply_link": "https://codeops.com/careers/productmanager"
     }
   ]
 }
